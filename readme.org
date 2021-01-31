@@ -1,0 +1,7 @@
+* ~sfile~
+  This is just a quick implementation for a static fileserver that I'll be
+  running. It's not really sophisticated at all, it's all handrolled
+  and has no organizational facilities -- if I get annoyed, I'll build
+  them.
+
+  It's public, but not publicly advertised.
